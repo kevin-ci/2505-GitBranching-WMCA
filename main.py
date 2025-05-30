@@ -3,4 +3,7 @@ def say_hello():
 
 say_hello()
 
-# somebody write the goodbye function
+def say_goodbye():
+    print("Au revoir")
+
+say_goodbye()
